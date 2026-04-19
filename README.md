@@ -6,7 +6,7 @@ However, their lack of interpretability raises concerns in highstakes
 applications like security surveillance. This report aims to analyze
 different explainability techniques to visualize and understand how the MobileNetV2
 + LSTM model detects violence in video frames.
-Detection of a violence event in surveillance systems is playing a significant
+  Detection of a violence event in surveillance systems is playing a significant
 role in law enforcement and city safety.The effectiveness of violence
 event detectors measures by the speed of response and the accuracy and the
 generality over different kind of video sources with a different format.Several
